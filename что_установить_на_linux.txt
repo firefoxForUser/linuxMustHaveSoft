@@ -152,7 +152,7 @@ libreoffice +
  sudo apt-get install libreoffice-style-sifr + Tools > Options > LibreOffice > View and select "Sifr" under "Icon size and style"
  + librecad
  
-xchm + утилита hh в wine 
+xchm + kchm + утилита hh в wine - просмотр формата .chm
 chm2pdf
 fbreader - читалка
 CuneiForm - распознование текста + YAGF (интерфейс) + aspell (проверка орфографии) + ocrodjvu (распознование djvu) + xsane (со сканеров)
