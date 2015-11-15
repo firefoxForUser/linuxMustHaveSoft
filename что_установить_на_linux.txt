@@ -43,6 +43,8 @@ hardinfo - инфа о оборудовании
 
 SANE - поддержка и работа со множеством моделей сканеров, сканирование по сети
 
+https://software.opensuse.org/package/imagewriter - фирменная утилита записи для open suse
+
 ----------------------
 !!!Менеджеры пакетов
 muon в KDE
@@ -153,6 +155,8 @@ emacs
 libreoffice +
  sudo apt-get install libreoffice-style-sifr + Tools > Options > LibreOffice > View and select "Sifr" under "Icon size and style"
  + librecad
+ 
+Calligra Suite - оффисный пакет KDE, редактор графики, PDF, таблиц и т.д.
  
 xchm + kchm + утилита hh в wine - просмотр формата .chm
 chm2pdf
