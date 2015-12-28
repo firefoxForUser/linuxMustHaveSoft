@@ -45,6 +45,8 @@ SANE - поддержка и работа со множеством моделе
 
 https://software.opensuse.org/package/imagewriter - фирменная утилита записи для open suse
 
+VeraCrypt - шифрование дисков, создание виртуальных шифрованных дисков с двойным дном.
+
 ----------------------
 !!!Менеджеры пакетов
 muon в KDE
@@ -127,7 +129,7 @@ httrack + HTTraQt - скачивание сайтов целиком
 
 ----------------------
 !!!Архиваторы
-p7zip-full (sudo apt-get install p7zip-rar p7zip-full)
+p7zip-full (sudo apt-get install p7zip-rar p7zip-full) - множество типов архивов. Порт 7z под linux
 PeaZip
 sudo aptitude install rar unrar p7zip-full
 
@@ -150,6 +152,7 @@ HeidiSQL (в wine)
 --текстовые редакторы
 vim
 emacs
+Notepadqq - клон Notepad++
 
 --просмотр документов
 libreoffice +
@@ -168,7 +171,7 @@ LaTeX - редактор формата .tex, для типографий
 Texmaker - редактор документов LaTeX
 Scribus - верстка как в Adobe InDesign, PDF, призентации и т.д.
 Gcalctool - калькулятор
-LanguageTool - проверка орфографии (нажна java)
+LanguageTool - проверка орфографии (нужна java)
 
 -----------------------
 !!!Разработка
